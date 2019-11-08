@@ -1,0 +1,19 @@
+{
+  "name": "@azoup/fechamento-integrador",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cli-table": "^0.3.1",
+    "inquirer": "^7.0.0",
+    "progress": "^2.0.3",
+    "update-notifier": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
